@@ -1,5 +1,3 @@
 # Car_Price_ML
-Step1: Cleaning dataset 
-Step2: Re-organizing data
-Step3: Train model
-Step4: Test model
+### 1. Carprice.csv:  Original data collected for car price
+### 2. Carprice.ipynb:  Python code for data processing, analyzing and machine learning building/testing
